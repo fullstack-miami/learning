@@ -11,3 +11,6 @@ Having a project, or finding one, that is important to you will fuel your will p
 ## Beginner Resources
 - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
 - https://www.codecademy.com/learn/introduction-to-javascript
+
+### Nuxt
+- https://nuxt.com/docs/getting-started/introduction
